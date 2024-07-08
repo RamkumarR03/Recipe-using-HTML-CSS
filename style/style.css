@@ -1,0 +1,32 @@
+header h1{
+    background-color: darkcyan;
+    padding: 40px 463px;
+    margin: -8px;
+}
+.container{
+   padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    max-width:600px;
+    margin:20px auto;
+    text-align: center;
+}
+body{
+    background-color: gold;
+}
+.c1{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    max-width:600px;
+    margin:20px auto;
+    text-align: center;
+}
+.c2{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    max-width:600px;
+    margin:20px auto;
+    text-align: center;
+}
